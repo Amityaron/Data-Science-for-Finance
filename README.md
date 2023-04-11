@@ -11,4 +11,7 @@ On 3 date ranges:
 2. 1.1.2019-now
 3. 1.1.2022-now
 
+Example in the figure below
+
+![plot](https://github.com/Amityaron/Data-Science-for-Finance/blob/main/Bollinger%20Band%20XLK%202022-2023.PNG)
 
