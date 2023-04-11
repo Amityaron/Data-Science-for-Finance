@@ -13,5 +13,4 @@ On 3 date ranges:
 
 Example in the figure below
 
-![plot](https://github.com/Amityaron/Data-Science-for-Finance/blob/main/Bollinger%20Band%20XLK%202022-2023.PNG)
-
+<img src="https://github.com/Amityaron/Data-Science-for-Finance/blob/main/Bollinger%20Band%20XLK%202022-2023.PNG" width="60%" height="30%">
